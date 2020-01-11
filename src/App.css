@@ -23,7 +23,8 @@ form {
   margin: 10px;
 }
 
-h2 {
+h2,
+h1 {
   display: flex;
   justify-content: center;
   align-items: center;
